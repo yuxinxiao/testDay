@@ -1,0 +1,9 @@
+# test
+每日练习代码
+
+
+
+browser-sync start --server forest --files "forest/indx.html,forest/css/*.css"  把修改后的结果应用到服务
+
+
+

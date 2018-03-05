@@ -1,0 +1,69 @@
+# test
+20180305————————————————
+webpack
+ sudo cnpm install webpack@2.4.1 -g 
+ webpack entry.js bundle.js     把entry.js文件的内容打包到bundle.js中
+ 资源转换器  loader 用于转换不同的资源文件
+ 
+  webpack转换.css文件
+  npm install css-loader style-loader --save-dev  
+  touch style.css
+  webpack entry.js bundle
+  
+  touch style.css.js
+  
+  
+  webpack.config.js
+  
+  module.exports={
+    entry: "./src/main.js",                                   要打包的入口文件
+    output: {
+        filename: "[name].js",                                生成文件的名字
+        path: path.resolve(__dirname, "dist"),                打包的文件存储的位置
+        publicPath: ""
+	   },
+     module:{
+      rules:[
+        { 
+          
+		    	test: /\.styl$/,                                  看下要打包的是不是css文件
+		   	use: [
+		    		'style-loader',
+		    		{
+		    			loader: 'css-loader',
+		    			options: {
+		    				modules: true,
+        					localIdentName: '[path][name]__[local]--[hash:base64:5]'
+		    			}
+		    		},
+		    		'stylus-loader'
+		    	]
+		    }
+
+       }
+      
+      ]
+     }
+  
+  }
+  webpack --devtool source-map   生成没打包前的webpack文件
+  添加 debugger
+  webpack cuntry.js bundle.js
+  浏览器刷新调试
+  
+  生成source-map
+  webpack.config.js中devtool:'soucre-map'
+  
+  
+  babel和webpack混用
+  
+  babel和webpack混用需要安装babel-loader
+  
+  npm install babel-loader babel-core babel-preset-es2015 --save-dev          安装文件到包依赖
+
+
+  
+  
+
+
+
