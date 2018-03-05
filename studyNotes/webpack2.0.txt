@@ -13,7 +13,7 @@ webpack
   touch style.css.js
   
   
-  webpack.config.js
+  Touch webpack.config.js
   
   module.exports={
     entry: "./src/main.js",                                   要打包的入口文件

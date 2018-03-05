@@ -1,0 +1,49 @@
+
+
+20180305
+——————————————————
+https://zhuanlan.zhihu.com/p/25888929
+https://www.cnblogs.com/fengnovo/p/6653938.html
+https://www.cnblogs.com/fengnovo/p/6653938.html
+
+https://segmentfault.com/a/1190000006053772
+https://www.cnblogs.com/hsprout/p/7126797.html
+
+初始化，生成package.json
+Nom init
+
+安装webpack
+Sudo npm install -g webpack            全局安装
+Npm install webpack —save-dev          项目安装
+Touch webpack.config.js 并配置
+
+
+
+
+npm install react react-dom --save-dev  安装react
+
+
+babel相关
+
+npm install babel-loader babel-core --save-dev
+npm install babel-preset-es2015 babel-preset-react --save-dev
+Touch .babelrc
+{
+    "presets": ["es2015","react"]
+}
+
+
+touch name.js
+touch index.html
+touch entry.js. 入口文件
+
+Touch Name.js 
+
+=========================
+Mkdir dir
+Cd dir
+Nom init
+npm install babel-core babel-preset-es2015 babel-preset-react webpack@2.4.1 webpack-dev-server babel-loader react-hot-loader --save-dev
+ npm install react-dom react --save-dev
+.babelrc 下{presets:[‘es2015’,’react’]}
+
