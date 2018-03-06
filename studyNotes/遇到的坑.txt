@@ -1,0 +1,24 @@
+
+
+20180306
+——————————————————
+详细配置见：https://blog.zfanw.com/webpack-tutorial/
+
+
+1.npm ERR! missing script: dev
+2.RROR in (webpack)/~/_process@0.11.10@process/browser.js
+Module build failed: Error: Couldn't find preset "es2015" relative to directory "/usr/local/lib/node_modules/webpack/node_modules/_process@0.11.10@process"
+    at /Users/yuxiaoya/workspace/testDay/20180306/webpack-app-indemo/node_modules/babel-core/lib/transformation/file/options/option-manager.js:293:19
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/Users/yuxiaoya/workspace/testDay/20180306/webpack-app-indemo/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/Users/yuxiaoya/workspace/testDay/20180306/webpack-app-indemo/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+
+3.  indemo05 git:(test) ✗ npm run dev
+npm ERR! missing script: dev
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/yuxiaoya/.npm/_logs/2018-03-06T08_21_04_359Z-debug.log
+➜  indemo05 git:(test) ✗ npm install webpack webpack-dev-server --save-dev
+
+
+

@@ -1,0 +1,88 @@
+
+
+20180306
+——————————————————
+详细配置见：https://blog.zfanw.com/webpack-tutorial/
+
+1.每个文件下面可以设置单独的webpack.config.js
+2. touch index.html app.css bundle.js main.js webpack.config.js
+3.indemo4 webpack用的是4.0
+npm install webpack webpack-dev-server --save-dev
+———————————————————————————————————————————————————————————
+4.关于url-loader.要运行npm run dev
+npm install webpack-cli -D
+
+npm install webpack webpack-dev-server --save-dev
+npm install url-loader -—save-dev
+
+Pagepack.json中有dev
+{
+  "name": "webpack-demo5",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "license": "MIT"
+}
+————————————————————————————————————————————————————————
+ 5.  
+ :global(.h1) {
+    color: blue;
+}
+全ju应用
+
+webpack.config.js中可通过 modules: true设置应用全局变量
+{
+                    loader: 'css-loader',
+                    options: {
+                        modules: true
+                    }
+  }
+——————————————————-——————————————————-——————————————————-——————————————————-——————————————————-—————————————————————————-——————————————————-——————————————————-
+
+6.Demo07: UglifyJs Plugin (source)
+Webpack有一个插件系统来扩展它的功能。例如，UglifyJs Plugin将会缩小output（bundle.js）JS代码。
+—————————————————————————————————————
+7.Demo08: HTML Webpack Plugin and Open Browser Webpack Plugin (source)
+可以自动为我们生成HTML并插入对应的js和css文件
+http://blog.csdn.net/zhaoruda/article/details/74859338
+??不太懂
+HTML Webpack插件和开放浏览器Webpack插件
+
+加载第三方插件
+var HtmlwebpackPlugin =  require（' ./node_modules/html-webpack-plugin '）;
+var OpenBrowserPlugin =  require（' ./node_modules/open-browser-webpack-plugin'）;
+
+—————————————————————————————————————
+require.ensure
+在执行npm run dev 时候需要
+先webpack一下
+
+8.Demo11: Code splitting with bundle-loader (source)
+代码分割的另外一种方式
+
+// main.js
+
+////现在请求a.js，它将被捆绑到另一个文件中
+var load = require('bundle-loader!./a.js');
+
+// To wait until a.js is available (and get the exports)
+//  you need to async wait for it.
+load(function(file) {
+  document.open();
+  document.write('<h1>' + file + '</h1>');
+  document.close();
+});
+require('bundle-loader!./a.js')告诉Webpack a.js从另一个块加载。
+
+现在Webpack将构建main.js成bundle.js并a.js进入0.bundle.js。
+————————————————————————————
+ 当多个脚本具有常用块时，可用CommonsChunkPlugin将公共部分提取到单独的文件中，这对于浏览器缓存和节省带宽很有作用。
+
+
+
+
+
+
+
