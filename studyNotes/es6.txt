@@ -1,0 +1,49 @@
+
+
+Es6
+
+
+1.
+yarn init
+yarn add webpack@3.7.1 web pack-dev-server@2.9.1 babel-core@6.26.0 babel-loader@7.1.2 babel-preset-env@1.6.0 -dev
+touch.config.js
+babel-preset-env 转码神器 —  web pack-dev-server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.aysc和defer区别
+Defer是渲染完再执行
+Aysc是下载完成后就执行无法保证执行顺序
+
+1.repl
+http://babeljs.io/repl。 repl在线编辑转换工具
+
+1.sudo npm install -g es6 
+es-checker              查看你正在使用的 Node 环境对 ES6 的支持程度。
+
+
+
