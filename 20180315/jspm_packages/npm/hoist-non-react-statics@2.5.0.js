@@ -1,0 +1,1 @@
+module.exports = require("npm:hoist-non-react-statics@2.5.0/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:color@0.11.4/index");

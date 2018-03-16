@@ -1,0 +1,1 @@
+module.exports = require("npm:css-color-names@0.0.4/./css-color-names.json!systemjs-json");

@@ -1,0 +1,1 @@
+module.exports = require("npm:css-loader@0.28.10/index");

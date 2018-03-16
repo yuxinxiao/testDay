@@ -1,0 +1,1 @@
+module.exports = require("npm:reduce-css-calc@1.3.0/index");

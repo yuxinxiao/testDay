@@ -1,0 +1,1 @@
+module.exports = require("npm:macaddress@0.2.8/index.js");

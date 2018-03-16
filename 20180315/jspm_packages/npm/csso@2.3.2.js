@@ -1,0 +1,1 @@
+module.exports = require("npm:csso@2.3.2/lib/index");

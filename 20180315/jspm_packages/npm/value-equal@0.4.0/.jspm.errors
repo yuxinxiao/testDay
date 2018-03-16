@@ -1,0 +1,4 @@
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/value-equal@0.4.0/index.js:38:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/value-equal@0.4.0/index.js:38:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/value-equal@0.4.0/index.js:38:8: Unexpected reserved word default
+/Users/yuxiaoya/.jspm/packages/npm/value-equal@0.4.0/index.js:38:16: Semi-colon expected

@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-reduce-transforms@1.0.4/dist/index.js");

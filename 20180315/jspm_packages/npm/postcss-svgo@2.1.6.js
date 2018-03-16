@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-svgo@2.1.6/dist/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-merge-idents@2.1.7/dist/index.js");

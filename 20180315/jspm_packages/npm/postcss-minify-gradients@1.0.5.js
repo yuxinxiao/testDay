@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-minify-gradients@1.0.5/dist/index.js");

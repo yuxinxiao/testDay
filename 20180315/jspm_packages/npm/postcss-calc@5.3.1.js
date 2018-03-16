@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-calc@5.3.1/index");

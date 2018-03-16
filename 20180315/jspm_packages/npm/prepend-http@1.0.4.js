@@ -1,0 +1,1 @@
+module.exports = require("npm:prepend-http@1.0.4/index");

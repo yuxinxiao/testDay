@@ -1,0 +1,1 @@
+module.exports = require("npm:caniuse-api@1.6.1/dist/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:lodash.camelcase@4.3.0/index");

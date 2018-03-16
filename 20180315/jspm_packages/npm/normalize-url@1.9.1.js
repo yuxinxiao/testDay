@@ -1,0 +1,1 @@
+module.exports = require("npm:normalize-url@1.9.1/index");

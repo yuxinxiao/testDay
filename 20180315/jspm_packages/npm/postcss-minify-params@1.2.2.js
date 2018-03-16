@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-minify-params@1.2.2/dist/index.js");

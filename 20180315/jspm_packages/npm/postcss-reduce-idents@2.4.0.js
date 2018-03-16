@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-reduce-idents@2.4.0/dist/index.js");

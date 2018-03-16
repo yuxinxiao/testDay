@@ -1,0 +1,1 @@
+module.exports = require("npm:color-string@0.3.0/color-string");

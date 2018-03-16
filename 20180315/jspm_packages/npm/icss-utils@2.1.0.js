@@ -1,0 +1,1 @@
+module.exports = require("npm:icss-utils@2.1.0/lib/index.js");

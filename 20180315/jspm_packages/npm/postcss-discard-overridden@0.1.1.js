@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-discard-overridden@0.1.1/dist/index.js");

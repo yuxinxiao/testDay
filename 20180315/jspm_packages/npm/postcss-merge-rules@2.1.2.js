@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-merge-rules@2.1.2/dist/index.js");

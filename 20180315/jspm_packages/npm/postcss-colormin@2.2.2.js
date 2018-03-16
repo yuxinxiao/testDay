@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-colormin@2.2.2/dist/index.js");

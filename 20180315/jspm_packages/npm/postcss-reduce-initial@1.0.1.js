@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-reduce-initial@1.0.1/dist/index.js");

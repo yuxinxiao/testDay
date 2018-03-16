@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-selector-parser@2.2.3/dist/index.js");

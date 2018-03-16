@@ -1,0 +1,1 @@
+module.exports = require("npm:vendors@1.0.1/index.json!systemjs-json");

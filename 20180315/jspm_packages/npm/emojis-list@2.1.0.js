@@ -1,0 +1,1 @@
+module.exports = require("npm:emojis-list@2.1.0/index.js");

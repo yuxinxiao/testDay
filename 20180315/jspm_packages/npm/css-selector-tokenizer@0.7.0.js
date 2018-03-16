@@ -1,0 +1,1 @@
+module.exports = require("npm:css-selector-tokenizer@0.7.0/lib/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-unique-selectors@2.0.2/dist/index.js");

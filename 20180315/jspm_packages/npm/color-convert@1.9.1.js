@@ -1,0 +1,1 @@
+module.exports = require("npm:color-convert@1.9.1/index");

@@ -1,0 +1,1 @@
+module.exports = require("npm:cssnano@3.10.0/dist/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-discard-comments@2.0.4/dist/index.js");

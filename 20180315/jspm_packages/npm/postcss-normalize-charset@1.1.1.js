@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-normalize-charset@1.1.1/index");

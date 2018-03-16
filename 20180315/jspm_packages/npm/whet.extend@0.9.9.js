@@ -1,0 +1,1 @@
+module.exports = require("npm:whet.extend@0.9.9/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:react-dom@16.2.0/index.js");

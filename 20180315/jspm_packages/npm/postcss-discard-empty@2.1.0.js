@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-discard-empty@2.1.0/dist/index.js");

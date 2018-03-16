@@ -1,0 +1,1 @@
+module.exports = require("npm:svgo@0.7.2/lib/svgo.js");

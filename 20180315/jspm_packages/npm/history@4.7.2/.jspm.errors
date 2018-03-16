@@ -1,0 +1,158 @@
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:5:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:5:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:5:16: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:5:21: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:6:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:6:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:6:18: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:6:23: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:7:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:7:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:7:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:8:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:8:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:8:93: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:9:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:9:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:9:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:9:37: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:10:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:10:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:10:157: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:290:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:290:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:290:8: Unexpected reserved word default
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createBrowserHistory.js:290:16: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:3:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:3:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:3:16: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:3:21: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:4:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:4:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:4:18: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:4:23: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:5:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:5:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:5:51: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:6:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:6:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:6:112: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:7:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:7:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:7:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:7:37: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:8:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:8:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:8:117: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:307:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:307:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:307:8: Unexpected reserved word default
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createHashHistory.js:307:16: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:5:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:5:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:5:16: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:5:21: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:6:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:6:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:6:28: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:7:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:7:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:7:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:8:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:8:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:8:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:8:37: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:157:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:157:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:157:8: Unexpected reserved word default
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createMemoryHistory.js:157:16: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:1:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:1:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:1:16: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:1:21: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:77:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:77:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:77:8: Unexpected reserved word default
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/createTransitionManager.js:77:16: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:1:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:1:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:3:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:3:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:7:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:7:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:11:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:11:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:22:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:22:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:34:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:34:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:41:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:41:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:50:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/DOMUtils.js:50:8: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:3:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:3:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:3:24: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:3:29: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:4:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:4:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:4:19: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:4:24: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:5:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:5:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:5:27: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:7:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:7:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:63:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/LocationUtils.js:63:8: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:1:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:1:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:5:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:5:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:9:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:9:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:13:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:13:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:17:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:17:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:21:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:21:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:45:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/PathUtils.js:45:8: Semi-colon expected
+
+MultipleErrors: /Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:1:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:1:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:1:30: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:1:35: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:2:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:2:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:2:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:2:35: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:3:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:3:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:3:27: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:3:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:4:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:4:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:4:29: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:4:32: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:5:1: Unexpected reserved word import
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:5:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:5:29: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:5:34: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:6:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:6:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:6:31: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:6:34: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:8:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:8:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:8:51: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:9:1: Unexpected reserved word export
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:9:8: Semi-colon expected
+/Users/yuxiaoya/.jspm/packages/npm/history@4.7.2/es/index.js:9:39: Semi-colon expected

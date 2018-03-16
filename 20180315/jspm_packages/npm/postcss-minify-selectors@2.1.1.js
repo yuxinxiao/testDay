@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-minify-selectors@2.1.1/dist/index.js");

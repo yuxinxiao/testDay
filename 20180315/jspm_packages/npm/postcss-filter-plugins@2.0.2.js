@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-filter-plugins@2.0.2/dist/index.js");

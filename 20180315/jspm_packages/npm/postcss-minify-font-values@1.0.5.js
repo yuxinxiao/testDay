@@ -1,0 +1,1 @@
+module.exports = require("npm:postcss-minify-font-values@1.0.5/index.js");
