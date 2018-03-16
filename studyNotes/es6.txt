@@ -5,8 +5,9 @@ Es6
 
 1.
 yarn init
-yarn add webpack@3.7.1 web pack-dev-server@2.9.1 babel-core@6.26.0 babel-loader@7.1.2 babel-preset-env@1.6.0 -dev
+yarn add webpack@3.7.1 web webpack-dev-server@2.9.1 babel-core@6.26.0 babel-loader@7.1.2 babel-preset-env@1.6.0 --dev
 touch.config.js
+touch babel.js
 babel-preset-env 转码神器 —  web pack-dev-server
 
 
